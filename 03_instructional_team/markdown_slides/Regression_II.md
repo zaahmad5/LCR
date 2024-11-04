@@ -8,7 +8,7 @@ paginate: true
 # Regression II
 ```console
 Data Sciences Institute
-Applying Statistical Concepts
+Linear Regression, Classification, and Resampling
 ```
 ---
 ##### Acknowledgements

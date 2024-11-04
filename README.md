@@ -1,4 +1,4 @@
-# Applying Statistical Concepts: Linear regression, classification, and resampling
+# Linear regression, classification, and resampling
 
 ## Content
 * [Description](#description)

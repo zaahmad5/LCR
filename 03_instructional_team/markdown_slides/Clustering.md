@@ -8,7 +8,7 @@ paginate: true
 # Clustering
 ```console
 Data Sciences Institute
-Applying Statistical Concepts
+Linear Regression, Classification, and Resampling
 ```
 
 ---
