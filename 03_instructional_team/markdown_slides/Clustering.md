@@ -12,10 +12,6 @@ Applying Statistical Concepts
 ```
 
 ---
-##### Acknowledgements
-- Slides created by Julia Gallucci under the supervision of Rohan  Alexander.
-- Content adapted from: A First Introduction (Python Edition) Tiffany Timbers, Trevor Campbell, Melissa Lee, Joel Ostblom, Lindsey Heagy https://python.datasciencebook.ca/index.html
----
 ##### Learning objectives
   - Identify when clustering is appropriate and the insights it provides.
    - Explain the K-means clustering algorithm.
