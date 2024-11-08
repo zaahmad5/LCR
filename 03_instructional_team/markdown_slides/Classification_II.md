@@ -12,10 +12,6 @@ Applying Statistical Concepts
 ```
 
 ---
-##### Acknowledgements
-- Slides created by Julia Gallucci under the supervision of Rohan  Alexander.
-- Content adapted from: A First Introduction (Python Edition) Tiffany Timbers, Trevor Campbell, Melissa Lee, Joel Ostblom, Lindsey Heagy https://python.datasciencebook.ca/index.html
----
 ##### Learning objectives
 - Explain training, validation, and test data sets and their roles in classification.
 - Define a random seed and its importance for reproducible data analysis.

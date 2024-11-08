@@ -11,10 +11,6 @@ Data Sciences Institute
 Applying Statistical Concepts
 ```
 ---
-##### Acknowledgements
-- Slides created by Julia Gallucci under the supervision of Rohan  Alexander.
-- Content adapted from: A First Introduction (Python Edition) Tiffany Timbers, Trevor Campbell, Melissa Lee, Joel Ostblom, Lindsey Heagy https://python.datasciencebook.ca/index.html
----
 ##### Learning objectives
 - Identify when to use regression for predictions
 - Explain the KNN regression algorithm and contrast it with KNN classification.
