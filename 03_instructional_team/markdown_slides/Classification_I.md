@@ -9,7 +9,7 @@ paginate: true
 # Classification I
 ```console
 Data Sciences Institute
-Applying Statistical Concepts
+Linear Regression, Classification, and Resampling
 ```
 
 ---

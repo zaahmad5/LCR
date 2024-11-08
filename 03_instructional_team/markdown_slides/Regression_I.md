@@ -8,7 +8,7 @@ paginate: true
 # Regression I
 ```console
 Data Sciences Institute
-Applying Statistical Concepts
+Linear Regression, Classification, and Resampling
 ```
 ---
 ##### Learning objectives
