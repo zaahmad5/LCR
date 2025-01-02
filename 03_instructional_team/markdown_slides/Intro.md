@@ -40,14 +40,8 @@ $ echo "Data Science Institute"
 
 ---
 
-# Let's navigate the ASC repo
+# Let's navigate the LCR repo
 [https://github.com/UofT-DSI/LCR](https://github.com/UofT-DSI/LCR/)
-
----
-
-## What is Statistical Learning?
-## Types of Statistical Learning
-## Applying Statistical Learning
 
 ---
 
@@ -91,9 +85,9 @@ We use a simple formula to show how the budget (predictor) might be related to s
 ## What is Statistical Learning?
 ![Sales Figure](./images/01_sales_fig.png) 
 
-The relationship between the advertising budgets and sales can be shown by a function, but there will always be some random error in our predictions. This random error shows that no model is perfect.
+The relationship between the advertising budgets and sales can be shown by a line of best fit, but there will always be some random error in our predictions. This random error shows that no model is perfect.
 
-Statistical learning helps us estimate this function, even though it’s not going to be perfect.
+Statistical learning helps us estimate this line, even though it’s not going to be perfect.
 
 ---
 # Types of Statistical Learning
@@ -137,7 +131,7 @@ To estimate the relationship between the budget and sales, we typically split ou
 - **Supervised learning** This is when we predict something (like sales) based on other information (like the advertising budget). 
    - Examples of supervised learning models are linear regression and classification. These models are the primary focus of this learning module.
 - **Unsupervised learning** This is when we try to understand the relationships between different pieces of information without predicting anything. 
-    - There is no response variable to predict, instead the goal is to understand the relationship between variables or observations.
+    - There is no response variable to predict, instead, the goal is to understand the relationship between variables or observations.
     - An example of this is clustering.
 
 
